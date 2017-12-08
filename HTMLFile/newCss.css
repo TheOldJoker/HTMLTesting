@@ -1,0 +1,6 @@
+span{
+    background-color: red
+}
+div span{
+    background-color: green
+}
