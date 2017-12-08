@@ -1,6 +1,20 @@
+
+/* 标签选择器 */
 span{
     background-color: red
 }
+/* 父子选择器/派生选择器 */
 div span{
     background-color: green
+}
+.divt1 span{
+    background-color: rgb(145, 64, 71)
+}
+/* 类型选择器 */
+.t2{
+    background-color: yellow
+}
+/* id选择器 */
+#newdiv{
+    background-color: blue
 }
